@@ -1,0 +1,10 @@
+{
+  "name": "uncle-sam",
+  "version": "0.0.1",
+  "description": "An income tax estimate calculator",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [ "taxes", "income tax", "calculator" ],
+  "author": "Dylan Westerhold",
+  "license": "ISC"
+}
